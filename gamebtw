@@ -1,16 +1,16 @@
 #!/bin/sh
 
-# ┌───┐
-# │▐█▌│
-# │+ ⠔│
-# └───'
-#GameBtw
+#  ┌───┐
+#  │▐█▌│
+#  │+ ⠔│
+#  └───'
+# GameBtw
 
 # File:         gamebtw
 # Description:  Game-boy + Arch-Btw = Game Btw
 # Author:       NNB
 #               └─ https://github.com/NNBnh
-# URL:          https://github.com/NNBnh/nnbs-text-art/blob/main/gamebtw
+# URL:          https://github.com/NNBnh/textart-collections/blob/main/gamebtw
 
 
 printf "\e[?25l\e[?7l\e7 \e[37m┌───┐ \e[0m

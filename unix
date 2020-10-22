@@ -32,7 +32,7 @@
 # URL:                   Tech Heroes Series
 #                        └─ http://www.sanderfocus.nl/#/portfolio/tech-heroes
 #                        This file from NNB's text art collections
-#                        └─ https://github.com/NNBnh/nnbs-text-art/blob/main/unix
+#                        └─ https://github.com/NNBnh/textart-collections/blob/main/unix
 
 
 printf "\e[?25l\e[?7l\e7                    \e[38;5;255m,_ ,_==▄▂                                                \e[0m

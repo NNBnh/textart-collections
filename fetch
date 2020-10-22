@@ -1,0 +1,26 @@
+#!/bin/sh
+
+# user@hostname
+# OS:        Linux
+# KERNEL:    Linux 6.9
+# UPTIME:    4 hours, 20 minutes
+# PACKAGES:  666
+# SHELL:     bash
+# WM:        wm
+# TERMINAL:  tty
+
+# File:         fetch
+# Description:  Fetch template for ricers to customize
+# Author:       NNB
+#               └─ https://github.com/NNBnh
+# URL:          https://github.com/NNBnh/textart-collections/blob/main/fetch
+
+
+printf "\e[?25l\e[?7l\e7\e[1;97m${USER}\e[0m@\e[1;97m$(hostname)\e[0m
+\e8\e[B\e7\e[1;97mOS:        \e[0m$(lsb_release -sd)\e[0m
+\e8\e[B\e7\e[1;97mKERNEL:    \e[0m$(uname -sr)\e[0m
+\e8\e[B\e7\e[1;97mUPTIME:    \e[0m$(uptime -p | sed 's/up //')\e[0m
+\e8\e[B\e7\e[1;97mPACKAGES:  \e[0m${PACKAGES:-packages}\e[0m
+\e8\e[B\e7\e[1;97mSHELL:     \e[0m$(basename "$SHELL")\e[0m
+\e8\e[B\e7\e[1;97mWM:        \e[0m${WM:-wm}\e[0m
+\e8\e[B\e7\e[1;97mTERMINAL:  \e[0m$(basename "$TERMINAL")\e[0m\e[?25h\e[?7h"
