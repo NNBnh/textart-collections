@@ -1,4 +1,5 @@
 #!/bin/sh
+# 32 8
 
 # user@hostname
 # OS:        Linux
@@ -24,3 +25,6 @@ printf "\e[?25l\e[?7l\e7\e[1;97m${USER}\e[0m@\e[1;97m$(hostname)\e[0m
 \e8\e[B\e7\e[1;97mSHELL:     \e[0m$(basename "$SHELL")\e[0m
 \e8\e[B\e7\e[1;97mWM:        \e[0m${WM:-wm}\e[0m
 \e8\e[B\e7\e[1;97mTERMINAL:  \e[0m$(basename "$TERMINAL")\e[0m\e[?25h\e[?7h"
+
+
+exit 0
