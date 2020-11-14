@@ -27,14 +27,14 @@ TERMINAL=$(basename "$TERMINAL")
 
 
 # Start
-printf "\e[1;97m${USER}\e[0m@\e[1;97m$(hostname)\e[0m
-\e[1;97mOS:        \e[0m${OS:-os}\e[0m
-\e[1;97mKERNEL:    \e[0m${KERNEL:-kernel}\e[0m
-\e[1;97mUPTIME:    \e[0m${UPTIME:-uptime}\e[0m
-\e[1;97mPACKAGES:  \e[0m${PACKAGES:-packages}\e[0m
-\e[1;97mSHELL:     \e[0m${SHELL:-shell}\e[0m
-\e[1;97mWM:        \e[0m${WM:-wm}\e[0m
-\e[1;97mTERMINAL:  \e[0m${TERMINAL:-terminal}\e[0m"
+printf "\033[1;97m${USER}\033[0m@\033[1;97m$(hostname)\033[0m
+\033[1;97mOS:        \033[0m${OS:-os}\033[0m
+\033[1;97mKERNEL:    \033[0m${KERNEL:-kernel}\033[0m
+\033[1;97mUPTIME:    \033[0m${UPTIME:-uptime}\033[0m
+\033[1;97mPACKAGES:  \033[0m${PACKAGES:-packages}\033[0m
+\033[1;97mSHELL:     \033[0m${SHELL:-shell}\033[0m
+\033[1;97mWM:        \033[0m${WM:-wm}\033[0m
+\033[1;97mTERMINAL:  \033[0m${TERMINAL:-terminal}\033[0m"
 
 
 exit 0
