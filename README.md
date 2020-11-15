@@ -25,10 +25,22 @@ From [Fsymbols](https://fsymbols.com/text-art):
 >
 > It's about making text pictures with text symbols.
 
+`.textart` is a [pure posix shell script](https://github.com/dylanaraps/pure-sh-bible) that print out text art.
+
+###### [Learn how to create a `.textart` file here](https://github.com/NNBnh/textart-collections/wiki)
+
+And this is my personal collection of `.textart` that I create and gather on [r/unixporn](https://www.reddit.com/r/unixporn) and other sources.
+
+###### NOTE: This collections will not include textart that can be easily generated from pixel art, image, figlet...
+
 ## Contents
 - [About](#about)
 - [Contents](#contents)
 - [Usage](#usage)
+- [Resources](#resources)
+  - [Textart Gallerys](#textart-gallerys)
+  - [Character picker](#character-picker)
+  - [Other textart scripts and tools](#other-textart-scripts-and-tools)
 
 ## Usage
 First [download](https://github.com/NNBnh/textart-collections/archive/main.zip) or clone this repo:
@@ -64,3 +76,22 @@ Result:
  └───'
 GameBtw
 ```
+
+## Resources
+### Textart Gallerys
+- [Text Art](https://fsymbols.com/text-art) and [Small Simple Text Art](https://fsymbols.com/text-art/twitter)
+- [ASCII Art Gallery](https://textfancy.com/gallery)
+- [ASCII Art Archive](asciiart.eu)
+- [ASCII World](asciiworld.com)
+- [Christopher Johnson's ASCII Art Collection](asciiart.website)
+
+### Character picker
+- [Unicode search](http://xahlee.info/comp/unicode_index.html)
+- [Symbols Emoji](https://fsymbols.com)
+- [Character picker](https://textfancy.com/characters)
+
+### Other textart scripts and tools
+- [Color Scripts](https://github.com/stark/Color-Scripts): User contributed color scripts
+- [`bonsai.sh`](https://gitlab.com/jallbrit/bonsai.sh): Bonsai tree generator
+- [FIGlet](http://www.figlet.org) and [TOIlet](https://github.com/cacalabs/toilet): Text banner generator
+- [Chafa](https://hpjansson.org/chafa): Image to ASCII/ANSI converter
