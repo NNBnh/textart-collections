@@ -25,7 +25,7 @@ From [Fsymbols](https://fsymbols.com/text-art):
 >
 > It's about making text pictures with text symbols.
 
-`.textart` is a [pure posix shell script](https://github.com/dylanaraps/pure-sh-bible) that print out textart.
+`.textart` is a [pure POSIX shell script](https://github.com/dylanaraps/pure-sh-bible) that print out textart.
 
 ###### [Learn how to create a `.textart` file here](https://github.com/NNBnh/textart-collections/wiki)
 
