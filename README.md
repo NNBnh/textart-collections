@@ -81,9 +81,10 @@ GameBtw
 ### Textart Gallerys
 - [Text Art](https://fsymbols.com/text-art) and [Small Simple Text Art](https://fsymbols.com/text-art/twitter)
 - [ASCII Art Gallery](https://textfancy.com/gallery)
-- [ASCII Art Archive](asciiart.eu)
-- [ASCII World](asciiworld.com)
-- [Christopher Johnson's ASCII Art Collection](asciiart.website)
+- [ASCII Art Archive](https://asciiart.eu)
+- [ASCII World](https://asciiworld.com)
+- [Christopher Johnson's ASCII Art Collection](https://asciiart.website)
+- [Roy/SAC Art Galleries](http://www.roysac.com/galleries.html)
 
 ### Character picker
 - [Unicode search](http://xahlee.info/comp/unicode_index.html)
