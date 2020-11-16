@@ -1,0 +1,23 @@
+#!/bin/sh
+
+# {{logo}}
+
+# File:                  {{name}}
+# Description:           {{name}} logo
+# Author:                Jschx
+#                        └─ https://gitlab.com/jschx
+# Converted to textart:  NNB
+#                        └─ https://github.com/NNBnh
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+
+
+# Start
+printf "\033[0m  _______\033[0m
+\033[0m / ____  \\\\\033[0m
+\033[0m/  |  /  /\\\\\033[0m
+\033[0m|__\\ /  / |\033[0m
+\033[0m\\   /__/  /\033[0m
+\033[0m \\_______/\033[0m"
+
+
+exit 0

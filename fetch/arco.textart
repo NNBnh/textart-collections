@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# {{logo}}
+
+# File:         {{name}}
+# Description:  {{name}} logo
+# Author:       NNB
+#               └─ https://github.com/NNBnh
+# URL:          https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+
+
+# Start
+printf "      \033[34m/\\\\\033[0m
+     \033[34m/  \\\\\033[0m
+    \033[34m/    \\\\\033[0m
+   \033[34m/  /\\  \\\\\033[0m
+  \033[34m/  /  \\  \\\\\033[0m
+ \033[34m/  / ___\\  \\\\\033[0m
+\033[34m/__/   \`.____\\\\\033[0m"
+
+
+exit 0
