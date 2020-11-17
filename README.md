@@ -95,5 +95,6 @@ GameBtw
 - [Color Scripts](https://github.com/stark/Color-Scripts): User contributed color scripts
 - [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts) by [Venam](https://github.com/venam)
 - [`bonsai.sh`](https://gitlab.com/jallbrit/bonsai.sh): Bonsai tree generator
+- [`pipes.sh`](https://github.com/pipeseroni/pipes.sh): Animated pipes terminal screensaver
 - [FIGlet](http://www.figlet.org) and [TOIlet](https://github.com/cacalabs/toilet): Text banner generator
 - [Chafa](https://hpjansson.org/chafa): Image to ASCII/ANSI converter
