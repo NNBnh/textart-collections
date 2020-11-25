@@ -1,14 +1,19 @@
 #!/bin/sh
 
-# {{logo}}
+#   __  __
+#  (_\)(/_)
+#  (_(__)_)
+# (_(_)(_)_)
+#  (_(__)_)
+#    (__)
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  raspbian.textart
+# Description:           Raspbian logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/raspbian.textart
 
 
 # Start

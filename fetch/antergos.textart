@@ -1,14 +1,20 @@
 #!/bin/sh
 
-# {{logo}}
+#      .```.
+#     /     \ 
+#    /  .`   \ 
+#   / .` .` . \ 
+#  / ` .`.` .` \ 
+# |    `.`  `   |
+#  \___________/
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  antergos.textart
+# Description:           Antergos logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/antergos.textart
 
 
 # Start

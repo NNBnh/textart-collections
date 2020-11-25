@@ -1,14 +1,21 @@
 #!/bin/sh
 
-# {{logo}}
+  #       _____
+  #      /   __)\
+  #      |  /  \ \
+  #   ___|  |__/ /
+  #  / (_    _)_/
+  # / /  |  |
+  # \ \__/  |
+  #  \(_____/
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  fedora.textart
+# Description:           Fedora logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/fedora.textart
 
 
 # Start

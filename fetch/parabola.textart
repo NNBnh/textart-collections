@@ -1,14 +1,19 @@
 #!/bin/sh
 
-# {{logo}}
+#   __ __ __  _
+# .`_//_//_/ / `.
+#           /  .`
+#          / .`
+#         /.`
+#        /`
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  parabola.textart
+# Description:           Parabola logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/parabola.textart
 
 
 # Start

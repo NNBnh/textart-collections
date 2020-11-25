@@ -1,14 +1,20 @@
 #!/bin/sh
 
-# {{logo}}
+#    ________
+#   /  ______|
+#   | |______
+#   \______  \
+#    ______| |
+# | |________/
+# |____________
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  slackware.textart
+# Description:           Slackware logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/slackware.textart
 
 
 # Start

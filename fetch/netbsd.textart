@@ -1,14 +1,20 @@
 #!/bin/sh
 
-# {{logo}}
+# \\`-______,----__
+#  \\        __,---`_
+#   \\       `.____
+#    \\-______,----`-
+#     \\
+#      \\
+#       \\
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  netbsd.textart
+# Description:           Netbsd logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/netbsd.textart
 
 
 # Start

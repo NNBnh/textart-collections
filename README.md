@@ -9,15 +9,15 @@
 From [Fsymbols](https://fsymbols.com/text-art):
 
 > ```
-> ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
-> ───█▒▒░░░░░░░░░▒▒█───
-> ────█░░█░░░░░█░░█────
-> ─▄▄──█░░░▀█▀░░░█──▄▄─
-> █░░█─▀▄░░░░░░░▄▀─█░░█
+>    ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄   
+>    █▒▒░░░░░░░░░▒▒█   
+>     █░░█░░░░░█░░█    
+>  ▄▄  █░░░▀█▀░░░█  ▄▄ 
+> █░░█ ▀▄░░░░░░░▄▀ █░░█
 > █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-> █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
-> █░░║║║╠─║─║─║║║║║╠─░░█
-> █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
+> █  ╦ ╦╔╗╦ ╔╗╔╗╔╦╗╔╗  █
+> █  ║║║╠ ║ ║ ║║║║║╠   █
+> █  ╚╩╝╚╝╚╝╚╝╚╝╩ ╩╚╝  █
 > █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 > ```
 >
@@ -29,7 +29,7 @@ From [Fsymbols](https://fsymbols.com/text-art):
 
 ###### [Learn how to create a `.textart` file here](https://github.com/NNBnh/textart-collections/wiki)
 
-And this is my personal collection of `.textart` that I create and gather on [r/unixporn](https://www.reddit.com/r/unixporn) and other sources.
+And this is my personal collection of `.textart` that I create and gather on [r/unixporn](https://www.reddit.com/r/unixporn) and other sources, all informations and credit of the particular textart are inside that file.
 
 ###### NOTE: This collections will not include textart that can be easily generated from pixel art, image, figlet,... or ASCII art with less than two colors.
 
@@ -41,6 +41,7 @@ And this is my personal collection of `.textart` that I create and gather on [r/
   - [Textart Gallerys](#textart-gallerys)
   - [Character picker](#character-picker)
   - [Other textart scripts and tools](#other-textart-scripts-and-tools)
+  - [Programs that use textart](#programs-that-use-textart)
 
 ## Usage
 First [download](https://github.com/NNBnh/textart-collections/archive/main.zip) or clone this repo:
@@ -95,6 +96,12 @@ GameBtw
 - [Color Scripts](https://github.com/stark/Color-Scripts): User contributed color scripts
 - [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts) by [Venam](https://github.com/venam)
 - [`bonsai.sh`](https://gitlab.com/jallbrit/bonsai.sh): Bonsai tree generator
-- [`pipes.sh`](https://github.com/pipeseroni/pipes.sh): Animated pipes terminal screensaver
 - [FIGlet](http://www.figlet.org) and [TOIlet](https://github.com/cacalabs/toilet): Text banner generator
 - [Chafa](https://hpjansson.org/chafa): Image to ASCII/ANSI converter
+- [Boxes](https://boxes.thomasjensen.com): Draws ASCII art boxes around your input text
+- [`pipes.sh`](https://github.com/pipeseroni/pipes.sh): Animated pipes terminal screensaver
+- [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art
+
+### Programs that use textart
+- [Bfetch](https://github.com/NNBnh/bfetch): Dynamic fetching tool that SuperB
+- [Neofetch](https://github.com/dylanaraps/neofetch): A command-line system information tool written in bash 3.2+

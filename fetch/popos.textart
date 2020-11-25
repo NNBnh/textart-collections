@@ -1,14 +1,21 @@
 #!/bin/sh
 
-# {{logo}}
+# ______
+# \  __ \        __
+#  \ \ \ \      / /
+#   \ \_\ \    / /
+#    \  __/   /_/
+#     \ \    _
+#    __\_\__(_)_
+#   (___________)
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  popos.textart
+# Description:           Popos logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/popos.textart
 
 
 # Start

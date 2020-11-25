@@ -1,14 +1,20 @@
 #!/bin/sh
 
-# {{logo}}
+#       /\
+#      /  \ 
+#     / /\ \  /\
+#    / /  \ \/  \
+#   / /    \ \/\ \
+#  / / /|   \ \ \ \
+# /_/ /_|    \_\ \_\
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  alpine.textart
+# Description:           Alpine logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/alpine.textart
 
 
 # Start

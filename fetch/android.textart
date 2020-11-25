@@ -1,14 +1,19 @@
 #!/bin/sh
 
-# {{logo}}
+#   ;,           ,;
+#    ';,.-----.,;'
+#   ,'           ',
+#  /    O     O    \
+# |                 |
+# '-----------------'
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  android.textart
+# Description:           Android logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/android.textart
 
 
 # Start

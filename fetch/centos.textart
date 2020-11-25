@@ -1,14 +1,20 @@
 #!/bin/sh
 
-# {{logo}}
+#  ____^____
+#  |\  |  /|
+#  | \ | / |
+# <---- ---->
+#  | / | \ |
+#  |/__|__\|
+#      v
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  centos.textart
+# Description:           Centos logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/centos.textart
 
 
 # Start

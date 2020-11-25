@@ -1,14 +1,21 @@
 #!/bin/sh
 
-# {{logo}}
+#         _
+#        (/
+#   .---__--.
+#  //////////\
+# |//////////
+# |/////////\_
+#  \//////////
+#   `.//".//'
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  macos.textart
+# Description:           Macos logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/macos.textart
 
 
 # Start

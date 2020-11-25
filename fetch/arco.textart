@@ -1,12 +1,18 @@
 #!/bin/sh
 
-# {{logo}}
+#       /\
+#      /  \
+#     /    \
+#    /  /\  \
+#   /  /  \  \
+#  /  / ___\  \
+# /__/   `.____\
 
-# File:         {{name}}
-# Description:  {{name}} logo
+# File:         arco.textart
+# Description:  Arco logo
 # Author:       NNB
 #               └─ https://github.com/NNBnh
-# URL:          https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:          https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/arco.textart
 
 
 # Start

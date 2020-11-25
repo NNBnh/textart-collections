@@ -1,14 +1,19 @@
 #!/bin/sh
 
-# {{logo}}
+#          _
+#      ---(_)
+#  _/  ---  \
+# (_) |   |
+#   \  --- _/
+#      ---(_)
 
-# File:                  {{name}}
-# Description:           {{name}} logo
+# File:                  ubuntu.textart
+# Description:           Ubuntu logo
 # Author:                Jschx
 #                        └─ https://gitlab.com/jschx
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
-# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/{{name}}
+# URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/fetch/ubuntu.textart
 
 
 # Start
