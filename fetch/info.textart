@@ -21,10 +21,10 @@
 COLOR="${INFO_TEXTART_COLOR:-97}"
 USER="$USER"
 HOSTNAME=$(hostname)
-OS=$(lsb_release -sd | sed 's/"//g')
-SEPARATOR=$(echo "${USER:-user}@${HOSTNAME:-hostname}" | sed 's/./-/g')
+OS=$(lsb_release -sd | sed -e 's/"//g')
+SEPARATOR=$(echo "${USER:-user}@${HOSTNAME:-hostname}" | sed -e 's/./-/g')
 KERNEL=$(uname -sr)
-UPTIME=$(uptime -p | sed 's/up //')
+UPTIME=$(uptime -p | sed -e 's/up //')
 PACKAGES="$PACKAGES"
 SHELL=$(basename "$SHELL")
 WM="$WM"
