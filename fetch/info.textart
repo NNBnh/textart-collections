@@ -30,10 +30,15 @@ SHELL=$(basename "$SHELL")
 WM="$WM"
 TERMINAL=$(basename "$TERMINAL")
 
+# It's highly recommend to used with Fetchutils:
+# 	"A collection of small scripts to retrieve system information"
+#
+# URL:  https://github.com/lptstr/fetchutils
+
 
 # Start
 printf "\033[1;${COLOR}m${USER:-user}\033[0m@\033[1;${COLOR}m${HOSTNAME:-hostname}\033[0m
-\033[0m${SEPARATOR:---}\033[0m
+\033[0m${SEPARATOR:----}\033[0m
 \033[1;${COLOR}mOS:        \033[0m${OS:-os}\033[0m
 \033[1;${COLOR}mKERNEL:    \033[0m${KERNEL:-kernel}\033[0m
 \033[1;${COLOR}mUPTIME:    \033[0m${UPTIME:-uptime}\033[0m
