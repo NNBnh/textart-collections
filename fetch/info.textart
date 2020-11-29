@@ -18,7 +18,7 @@
 
 
 # Values
-COLOR="${INFO_TEXTART_COLOR:-97}"
+COLOR="${1:-97}"
 USER="$USER"
 HOSTNAME=$(hostname)
 OS=$(lsb_release -sd | sed -e 's/"//g')

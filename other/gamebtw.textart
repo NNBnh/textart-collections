@@ -13,12 +13,16 @@
 # URL:          https://github.com/NNBnh/nnbs-text-art/blob/main/other/gamebtw.textart
 
 
+# Values
+COLOR="${1:-32}"
+
+
 # Start
 printf " \033[90m┌───┐\033[0m
- \033[90m│\033[100;32m▐█▌\033[0;90m│\033[0m
+ \033[90m│\033[100;${COLOR}m▐█▌\033[0;90m│\033[0m
  \033[90m│\033[1m+ \033[91m⠔\033[0;90m│\033[0m
  \033[90m└───'\033[0m
-\033[1;32mGameBtw\033[0m"
+\033[1;${COLOR}mGameBtw\033[0m"
 
 
 exit 0
