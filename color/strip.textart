@@ -1,57 +1,56 @@
 #!/bin/sh
 
-# ░░░░▓▓▓▓▒▒▒▒▓▓▓▓▒▒▒▒▓▓▓▓▒▒▒▒████
-#     ▒▒▒▒░░░░▒▒▒▒░░░░▒▒▒▒░░░░▓▓▓▓
+# ░░░▓▓▓▒▒▒▓▓▓▒▒▒▓▓▓▒▒▒███
+#    ▒▒▒░░░▒▒▒░░░▒▒▒░░░▓▓▓
 
 # File:         strip.textart
 # Description:  Colors strip below info
 # Author:       NNB
 #               └─ https://github.com/NNBnh
 # URL:          https://github.com/NNBnh/nnbs-text-art/blob/main/color/strip.textart
+# License:      GPLv3
+
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
 # Values
-WIDTH="${1:-4}"
-MODE="${2:-normal bright}"
-CHARACTER="${3:-█}"
-STYLE="${4:-0}"
-
-i='1'
-
-while [ "$i" -le "$WIDTH" ]; do
-	block="$block$CHARACTER"
-	i=$(( i +1 ))
-done
-
-
-# Functions
-strip() {
-	for color in 0 1 2 3 4 5 6 7; do
-		print="$print\033[$STYLE;$1${color}m$block"
-	done
-
-	print="$print\033[0m"
-}
+TEXT="${1:-███}"
+MODES="${2:-normal both}"
+ORDER="${3:-0 1 2 3 4 5 6 7}"
 
 
 # Start
-for mode in $MODE; do
-	case $mode in
-		'normal')
-			[ "$newline" = 'true' ] && print="$print\n"
-
-			strip 3
-
-			newline='true'
-		;;
-		'bright')
-			[ "$newline" = 'true' ] && print="$print\n"
-
-			strip 9
-
-			newline='true'
-		;;
+for mode in $MODES; do
+	case "$mode" in
+		'normal') style='3'   ;;
+		'bright') style='9'   ;;
+		'bold')   style='1;3' ;;
+		'both')   style='1;9' ;;
 	esac
+
+	[ "$newline" = 'true' ] && print="$print\n"
+
+	for color in $ORDER; do
+		[ "$color" != 'none' ] && colors=";$style$color"
+
+		print="$print\033[0${colors}m$TEXT"
+
+		colors=''
+	done
+
+	print="$print\033[0m"
+	newline='true'
 done
 
 printf "$print"
