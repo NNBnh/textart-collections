@@ -31,7 +31,7 @@ From [Fsymbols](https://fsymbols.com/text-art):
 
 And this is my personal collection of `.textart` that I create and gather on [r/unixporn](https://www.reddit.com/r/unixporn) and other sources, all informations and credit of the particular textart are inside that file.
 
-###### NOTE: This collections will not include textart that can be easily generated from pixel art, image, figlet,... or ASCII art with less than two colors.
+###### NOTE: This collections will not include stand alone textart that can be easily generated from pixel art, image, figlet,... or ASCII art with less than two colors.
 
 ## Contents
 - [About](#about)
@@ -94,6 +94,7 @@ GameBtw
 
 ### Other textart scripts and tools
 - [Color Scripts](https://github.com/stark/Color-Scripts): User contributed color scripts
+- [The textmode art of xeR0](http://0w.nz) by [xeRO](http://xero.nu)
 - [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts) by [Venam](https://github.com/venam)
 - [`bonsai.sh`](https://gitlab.com/jallbrit/bonsai.sh): Bonsai tree generator
 - [FIGlet](http://www.figlet.org) and [TOIlet](https://github.com/cacalabs/toilet): Text banner generator
@@ -102,6 +103,5 @@ GameBtw
 - [`pipes.sh`](https://github.com/pipeseroni/pipes.sh): Animated pipes terminal screensaver
 - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art
 
-### Programs that use textart
+### Programs that can use textart
 - [Bfetch](https://github.com/NNBnh/bfetch): Dynamic fetching tool that SuperB
-- [Neofetch](https://github.com/dylanaraps/neofetch): A command-line system information tool written in bash 3.2+

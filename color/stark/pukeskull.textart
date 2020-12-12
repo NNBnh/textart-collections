@@ -1,11 +1,76 @@
 #!/bin/sh
 
+#  ┳━┓┳━┓0┏┓┓┳━┓┏━┓┓ ┳
+#  ┃┳┛┃━┫┃┃┃┃┃━┃┃ ┃┃┃┃
+#  ┃┗┛┛ ┃┃┃┗┛┻━┛┛━┛┗┻┛
+#     ┳━┓┳ ┓┳┏ ┳━┓
+#     ┃━┛┃ ┃┣┻┓┣━ 
+#     ┇  ┗━┛┃ ┛┻━┛
+#    ┓━┓┳┏ ┳ ┓┳  ┳
+#    ┗━┓┣┻┓┃ ┃┃  ┃
+#    ━━┛┇ ┛┗━┛┗━┛┗━┛
 
+#                  .................
+#             .syhhso++++++++/++osyyhys+.
+#          -oddyo+o+++++++++++++++o+oo+osdms:
+#        :dmyo++oosssssssssssssssooooooo+/+ymm+`
+#       hmyo++ossyyhhddddddddddddhyyyssss+//+ymd-
+#     -mho+oosyhhhddmmmmmmmmmmmmmmddhhyyyso+//+hN+
+#     my+++syhhhhdmmNNNNNNNNNNNNmmmmmdhhyyyyo//+sd:
+#    hs//+oyhhhhdmNNNNNNNNNNNNNNNNNNmmdhyhhhyo//++y
+#    s+++shddhhdmmNNNNNNNNNNNNNNNNNNNNmdhhhdhyo/++/
+#    'hs+shmmmddmNNNNNNNNNNNNNNNNNNNNNmddddddhs+oh/
+#     shsshdmmmmmNNMMMMMMMMMMMNNNNNNNNmmmmmmdhssdh-
+#      +ssohdmmmmNNNNNMMMMMMMMNNNNNNmmmmmNNmdhhhs:`
+#  -+oo++////++sydmNNNNNNNNNNNNNNNNNNNdyyys/--://+//:
+#  d/+hmNNNmmdddhhhdmNNNNNNNNNNNNNNNmdhyyyhhhddmmNmdyd-
+#  ++--+ymNMMNNNNNNmmmmNNNNNNNNNNNmdhddmNNMMMMMMNmhyss
+#   /d+` -+ydmNMMMMMMNNmNMMMMMMMmmmmNNMMMMMNNmh- :sdo
+#    sNo   ` /ohdmNNMMMMNNMMMMMNNNMMMMMNmdyo/ `  hNh
+#     M+'     ``-/oyhmNNMNhNMNhNMMMMNmho/ `     'MN/
+#     d+'         `-+osydh0w.nzmNNmho:          'mN:
+#    +o/             ` :oo+:s :+o/-`            -dds
+#   :hdo       x    `-/ooss:':+ooo: `    0      :sdm+
+#  +dNNNh+         :ydmNNm'   `sddmyo          +hmNmds
+# dhNMMNNNNmddhsyhdmmNNNM:      NNmNmhyo+oyyyhmNMMNmysd
+# ydNNNNNh+/++ohmMMMMNMNh       oNNNNNNNmho++++yddhyssy
+#              `:sNMMMMN'       `mNMNNNd/`
+#    XXXXXXXXX y/hMMNm/  .dXb.  -hdmdy: ` XXXXXXX
+#    XXXXXXXX `o+hNNds. -ymNNy-  .yhys+/`` XXXXXX
+#    XXXXXXXX +-+//o/+odMNMMMNdmh++////-/s XXXXXX
+#    XXXXXXX mhNd -+d/+myo++ysy/hs -mNsdh/ XXXXXX
+#    XXXXXXXX mhMN+ dMm-/-smy-::dMN/sMMmdo XXXXXX
+#    XXXXXXXXXX NMy+NMMh oMMMs yMMMyNMMs+ XXXXXXX
+#    XXXXXXXXXXX dy-hMMm+dMMMdoNMMh ydo XXXXXXXXX
+#    XXXXXXXXXXXXX  smm 'NMMy dms  sm  XXXXXXXXXX
+#    XXXXXXXXXXXXXX                   XXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXER0
 
 # File:                  pukeskull.textart
 # Description:           {{des}}
 # Author:                Xero
-#                        └─ http://0w.nz
+#                        └─ http://xero.nu
 # Converted to textart:  NNB
 #                        └─ https://github.com/NNBnh
 # URL:                   https://github.com/NNBnh/nnbs-text-art/blob/main/color/pukeskull.textart
