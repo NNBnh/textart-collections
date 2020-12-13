@@ -29,7 +29,7 @@ From [Fsymbols](https://fsymbols.com/text-art):
 
 ###### [Learn how to create a `.textart` file here](https://github.com/NNBnh/textart-collections/wiki)
 
-And this is my personal collection of `.textart` that I create and gather on [r/unixporn](https://www.reddit.com/r/unixporn) and other sources, all informations and credit of the particular textart are inside that file.
+And this is my personal collection of `.textart` that I create and gather on [r/unixporn](https://www.reddit.com/r/unixporn), [Stark's color scripts](https://github.com/stark/Color-Scripts) and other sources, all informations and credit of the particular textart are inside that file.
 
 ###### NOTE: This collections will not include stand alone textart that can be easily generated from pixel art, image, figlet,... or ASCII art with less than two colors.
 
