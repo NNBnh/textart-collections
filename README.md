@@ -33,6 +33,9 @@ And this is my personal collection of `.textart` that I create and gather on [r/
 
 ###### NOTE: This collections will not include stand alone textart that can be easily generated from pixel art, image, figlet,... or ASCII art with less than two colors.
 
+<a href="https://asciinema.org/a/380336" target="_blank"><img width="64%" src="https://asciinema.org/a/380336.svg"></a>
+<a href="https://asciinema.org/a/379073" target="_blank"><img width="32%" src="https://asciinema.org/a/379073.svg"></a>
+
 ## Contents
 - [About](#about)
 - [Contents](#contents)
