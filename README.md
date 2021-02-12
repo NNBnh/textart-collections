@@ -67,7 +67,7 @@ then run any script that you want:
 E.g:
 
 ```sh
-./gamebtw
+./other/gamebtw
 ```
 
 Result:
