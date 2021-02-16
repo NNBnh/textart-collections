@@ -23,7 +23,7 @@
 
 
 # Values
-TEXT="${1:-abcd efg hijk lmno pqrs tuv wxyz\nABCD EFG HIJK LMNO PQRS TUV WXYZ\n\n  1234567890       ,./\\;'[]-=\`\n  !@#\$%%^&*()      <>?|:\"\{\}_+~}"
+TEXT="${1:-abcd efg hijk lmno pqrs tuv wxyz\nABCD EFG HIJK LMNO PQRS TUV WXYZ\n  1234567890       ,./\\;'[]-=\`\n  !@#\$%%^&*()      <>?|:\"\{\}_+~}"
 STYLES="${2:-normal bold italic}"
 
 # Start
