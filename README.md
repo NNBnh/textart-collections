@@ -1,24 +1,26 @@
 <h1 align="center">NNB's textart collections</h1>
 <p align="center">The most ambitious textart collections</p>
 <p align="center"><img src="image/logo.png"></p>
-<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"></p>
+<p align="center"><a href="https://github.com/NNBnh/textart-collections/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/textart-collections/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/textart-collections/network/members"><img src="https://img.shields.io/github/forks/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/textart-collections/issues"><img src="https://img.shields.io/github/issues/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
 ## About
 
 From [Fsymbols](https://fsymbols.com/text-art):
 
-> ```
->    ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄   
->    █▒▒░░░░░░░░░▒▒█   
->     █░░█░░░░░█░░█    
->  ▄▄  █░░░▀█▀░░░█  ▄▄ 
-> █░░█ ▀▄░░░░░░░▄▀ █░░█
+> <div align="center">
+> <pre style="background: none !important; font-weight: bold !important;">
+>    ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄    
+>    █▒▒░░░░░░░░░▒▒█    
+>     █░░█░░░░░█░░█     
+>  ▄▄  █░░░▀█▀░░░█  ▄▄  
+> █░░█ ▀▄░░░░░░░▄▀ █░░█ 
 > █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
 > █  ╦ ╦╔╗╦ ╔╗╔╗╔╦╗╔╗  █
 > █  ║║║╠ ║ ║ ║║║║║╠   █
 > █  ╚╩╝╚╝╚╝╚╝╚╝╩ ╩╚╝  █
 > █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-> ```
+> </pre>
+> </div>
 >
 > **Text art**, also called ASCII art or keyboard art is a copy-pasteable digital age art form.
 >
@@ -72,7 +74,7 @@ E.g:
 
 Result:
 
-```
+```console
  ┌───┐
  │▐█▌│
  │+ ⠔│
@@ -114,6 +116,6 @@ GameBtw
 
 ---
 
-> <h1 align="center">Made with :heart: by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
+> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
 >
 > <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></p>
