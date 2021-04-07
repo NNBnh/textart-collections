@@ -1,10 +1,9 @@
 <h1 align="center">NNB's textart collections</h1>
 <p align="center">The most ambitious textart collections</p>
-<p align="center"><img src="image/logo.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/113829776-165a7f80-97b0-11eb-8e62-ae1e22252578.png"></p>
 <p align="center"><a href="https://github.com/NNBnh/textart-collections/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/textart-collections/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/textart-collections/network/members"><img src="https://img.shields.io/github/forks/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/textart-collections/issues"><img src="https://img.shields.io/github/issues/NNBnh/textart-collections?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
 ## About
-
 From [Fsymbols](https://fsymbols.com/text-art):
 
 > <div align="center">
