@@ -99,7 +99,7 @@ GameBtw
 - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art
 
 ## 📢 Projects that can use textart
-- [Bfetch](https://github.com/NNBnh/bfetch): Dynamic fetching tool that SuperB
+- [SuperB Fetch](https://github.com/NNBnh/bfetch): Dynamic fetching tool that SuperB
 
 <br><br><br><br>
 
