@@ -98,7 +98,7 @@ GameBtw
 - [`falling-<3s.sh`](https://yjlv.blogspot.com/2011/02/time-to-have-falling-hearts-screensaver.html): Time to have Falling Hearts screensaver for geek’s terminal
 - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art
 
-### 📢 Projects that can use textart
+## 📢 Projects that can use textart
 - [Bfetch](https://github.com/NNBnh/bfetch): Dynamic fetching tool that SuperB
 
 <br><br><br><br>
