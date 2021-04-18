@@ -84,6 +84,7 @@ GameBtw
 - [Unicode search](http://xahlee.info/comp/unicode_index.html)
 - [Symbols Emoji](https://fsymbols.com)
 - [Character picker](https://textfancy.com/characters)
+- [Emojipedia](https://emojipedia.org)
 
 ### 📟 Other textart scripts and tools
 - [Color Scripts](https://github.com/stark/Color-Scripts): User contributed color scripts
