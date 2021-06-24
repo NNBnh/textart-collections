@@ -48,9 +48,7 @@ for mode in $MODES; do
 	}
 
 	for color in $ORDER; do
-		[ "$color" != 'none' ] && {
-			colors="$bold$spectrum;$bright$color"
-		}
+		[ "$color" != 'none' ] && colors="$bold$spectrum;$bright$color"
 
 		print="$print\033[0${colors:-$spectrum}m${text_print:-$TEXT}"
 
