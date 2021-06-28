@@ -75,6 +75,8 @@ GameBtw
 - [ASCII World](https://asciiworld.com)
 - [Christopher Johnson's ASCII Art Collection](https://asciiart.website)
 - [Roy/SAC Art Galleries](http://www.roysac.com/galleries.html)
+- [The textmode art of xeR0](http://0w.nz)
+- [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts)
 
 ### 🔍 Character picker
 - [Unicode search](http://xahlee.info/comp/unicode_index.html)
@@ -84,8 +86,6 @@ GameBtw
 
 ### 📟 Other textart scripts and tools
 - [Color Scripts](https://github.com/stark/Color-Scripts): User contributed color scripts
-- [The textmode art of xeR0](http://0w.nz) by [xeRO](http://xero.nu)
-- [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts) by [Venam](https://github.com/venam)
 - [`bonsai.sh`](https://gitlab.com/jallbrit/bonsai.sh): Bonsai tree generator
 - [FIGlet](http://www.figlet.org) and [TOIlet](https://github.com/cacalabs/toilet): Text banner generator
 - [Chafa](https://hpjansson.org/chafa): Image to ASCII/ANSI converter
