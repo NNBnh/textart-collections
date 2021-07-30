@@ -28,7 +28,7 @@ From [Fsymbols](https://fsymbols.com/text-art):
 
 `textart` is a [pure POSIX shell script](https://github.com/dylanaraps/pure-sh-bible) that print out textart.
 
-> *[Learn how to create a `textart` file here](https://github.com/NNBnh/textart-collections/wiki).*
+> *~~[Learn how to create a `textart` file here](https://github.com/NNBnh/textart-collections/wiki).~~ **Don't!!!***
 
 And this is my personal collection of `textart` that I create and gather on [r/unixporn](https://www.reddit.com/r/unixporn), [Stark's color scripts](https://github.com/stark/Color-Scripts) and other sources, all informations and credit of the particular textart are inside that file.
 
@@ -76,6 +76,7 @@ GameBtw
 - [Roy/SAC Art Galleries](http://www.roysac.com/galleries.html)
 - [The textmode art of xeR0](http://0w.nz)
 - [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts)
+- [INT10h](https://int10h.org)
 
 ### 🔍 Character picker
 - [Unicode search](http://xahlee.info/comp/unicode_index.html)
