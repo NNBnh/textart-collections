@@ -1,4 +1,7 @@
+> # ⚠️ Warning: Move focus to [NNB's ANSI collections](https://github.com/NNBnh/ansi)
 > ⚠️ Warning: the [fetch/](https://github.com/NNBnh/textart-collections/tree/7367d278ce41a38783d7ce12b3b05175836213cc/fetch) directory now moved to in own respect repository: [OS textart](https://github.com/info-mono/os-textart)
+>
+> ---
 
 <h1 align="center">NNB's textart collections</h1>
 <p align="center">The most ambitious textart collections</p>
